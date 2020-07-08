@@ -1,0 +1,6 @@
+D:\VietVo\data\repos\TamHauTest\TamHauTest\bin\Debug\TamHauTest.exe.config
+D:\VietVo\data\repos\TamHauTest\TamHauTest\bin\Debug\TamHauTest.exe
+D:\VietVo\data\repos\TamHauTest\TamHauTest\bin\Debug\TamHauTest.pdb
+D:\VietVo\data\repos\TamHauTest\TamHauTest\obj\Debug\TamHauTest.csprojAssemblyReference.cache
+D:\VietVo\data\repos\TamHauTest\TamHauTest\obj\Debug\TamHauTest.exe
+D:\VietVo\data\repos\TamHauTest\TamHauTest\obj\Debug\TamHauTest.pdb
